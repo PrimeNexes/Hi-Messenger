@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "757871474835",
+    "firebase_url": "https://learned-stone-193416.firebaseio.com",
+    "project_id": "learned-stone-193416",
+    "storage_bucket": "learned-stone-193416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757871474835:android:d29e2d817d18f779",
+        "android_client_info": {
+          "package_name": "com.pranay.himessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757871474835-3avb908lpud74c8m553k8hrioo5i2qhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranay.himessenger",
+            "certificate_hash": "f17bfb9c16f504113baecc371a90a996a5648973"
+          }
+        },
+        {
+          "client_id": "757871474835-eeu2894lvhda6nvj5i6gs92avgc38q2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUnE_tvUP98YHrwd6fvUMVT4lV-fbqY78"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757871474835-eeu2894lvhda6nvj5i6gs92avgc38q2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
